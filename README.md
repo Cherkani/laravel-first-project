@@ -1,4 +1,7 @@
 #CRUD
+![Uploading 1.png…]()
+![2](https://github.com/Cherkani/laravel-first-project/assets/124716884/ffe0188d-a542-4e3b-942b-3d3a23b91871)
+![Uploading 3.png…]()
 ![image](https://github.com/Cherkani/laravel-first-project/assets/124716884/6ba84756-b960-4917-83c7-4a2eac7ddba3)
 ![image](https://github.com/Cherkani/laravel-first-project/assets/124716884/1c3064ea-a950-4341-b647-b5c824fc61de)
 ![image](https://github.com/Cherkani/laravel-first-project/assets/124716884/a51c08f8-2b1e-436e-be7a-7f8f612e1102)
